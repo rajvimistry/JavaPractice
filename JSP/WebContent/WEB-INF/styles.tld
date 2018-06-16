@@ -1,0 +1,9 @@
+<taglib>
+	<tlib-version>1.2</tlib-version>
+	<jsp-version>jsp 2.0</jsp-version>
+	<tag>
+		<name>userDateStyle</name>
+		<tag-class>com.Rajvi.Servlet.DateStyleHandler</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+</taglib>
