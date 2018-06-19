@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache>
+
+<defaultCache timeToLiveSeconds="200" timeToIdleSeconds="120" eternal="false" maxElementsInMemory="100"/>
+
+<cache timeToLiveSeconds="200" timeToIdleSeconds="6" eternal="false" maxElementsInMemory="100" name="com.Hibernate.Cache.CustomerCache"/>
+
+</ehcache>
